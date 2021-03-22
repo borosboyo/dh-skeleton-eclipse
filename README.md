@@ -1,0 +1,2 @@
+# Aszteroidabányászat
+Skeleton tesztelő program
